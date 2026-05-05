@@ -1,0 +1,14 @@
+{
+  "name": "ansu-kumari-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Ansu Kumari",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "serve": "npx serve . -p 3000",
+    "start": "npm run build && npm run serve"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.0"
+  }
+}

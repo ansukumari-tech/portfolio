@@ -1,0 +1,83 @@
+{
+  "personal": {
+    "name": "Ansu Kumari",
+    "title": "Software Engineer · Data Engineering · Full-Stack",
+    "subtitle": "Delivering measurable impact — 70% faster testing, 95%+ detection rate, 82% ML accuracy",
+    "email": "ansuvermkari37@gmail.com",
+    "phone": "+91 8084845363",
+    "linkedin": "https://linkedin.com/in/ansu-kumari",
+    "github": "https://github.com/ansukumari-tech",
+    "location": "Kolkata, India",
+    "summary": "Final-year B.Tech Computer Science (Data Science) student with hands-on experience building Python automation tools, full-stack REST APIs, and ML-powered applications. Delivered measurable impact: 70% reduction in manual testing time, 95%+ vulnerability detection rate, and 82% ML directional accuracy. Seeking software development or data engineering roles leveraging Python, Flask, Node.js, and cloud DevOps."
+  },
+  "skills": {
+    "Programming": ["Java", "Python", "JavaScript", "SQL"],
+    "Frontend": ["HTML", "CSS", "React.js"],
+    "Backend": ["Flask", "Node.js", "Express.js", "REST APIs", "Unit Testing"],
+    "Data & ML": ["NumPy", "Pandas", "Matplotlib", "Scikit-learn", "VADER", "TextBlob", "Streamlit", "NLP"],
+    "Cloud & DevOps": ["Docker", "Kubernetes", "AWS", "Linux", "CI/CD (GitHub Actions)"],
+    "Tools": ["Git", "GitHub", "Postman"]
+  },
+  "experience": [
+    {
+      "company": "Techno Exponent",
+      "role": "Cyber Security Intern — SQL Injection Scanner",
+      "duration": "Sep – Nov 2025",
+      "location": "Kolkata, WB (Hybrid)",
+      "highlights": [
+        "Built an automated SQL Injection scanner in Python covering 50+ endpoints, reducing manual testing time by ~70%.",
+        "Implemented error-based, boolean-based, and time-based detection techniques achieving 95%+ detection rate on test targets.",
+        "Designed multi-threaded form crawling and payload fuzzing modules, cutting scan time by ~40% vs. sequential execution.",
+        "Delivered CVSS-scored vulnerability reports with remediation strategies for 3 client web applications."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Human Behavior Sentiment Analysis",
+      "tags": ["Python", "NLP", "VADER", "TextBlob", "Streamlit"],
+      "description": "NLP pipeline classifying sentiment and emotion on 17K+ tweets with ~80% accuracy and a Streamlit dashboard with <2s inference time.",
+      "highlights": [
+        "17K+ tweets classified with ~80% accuracy",
+        "Multi-label crime classification: phishing, scam, fraud",
+        "Word cloud & heatmap visualizations across 6 crime categories",
+        "Streamlit dashboard with <2s inference time"
+      ]
+    },
+    {
+      "title": "Cryptocurrency ML Prediction Platform",
+      "tags": ["Python", "Flask", "Scikit-learn", "CoinGecko API", "Render"],
+      "description": "ML model trained on 2+ years of OHLCV data achieving ~82% directional accuracy, deployed on Render serving 100+ API calls/day with <500ms response.",
+      "highlights": [
+        "~82% directional accuracy on 2+ years of OHLCV data",
+        "100+ API calls/day, <500ms response on Render",
+        "CoinGecko API for live data ingestion",
+        "Full-stack Flask UI supporting 5+ cryptocurrency pairs"
+      ]
+    },
+    {
+      "title": "REST API Backend — Web Application",
+      "tags": ["Node.js", "Express.js", "MongoDB", "Mongoose", "Postman"],
+      "description": "Modular REST API with MongoDB (Mongoose ORM), optimized query response time by ~30% via indexing and middleware error handling.",
+      "highlights": [
+        "~30% faster query response via indexing & middleware",
+        "User registration, authentication & full CRUD",
+        "Secure endpoint design validated via Postman test suites",
+        "Mongoose ORM with modular architecture"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "B.Tech, Computer Science & Engineering (Data Science)",
+    "institution": "Brainware University",
+    "location": "Kolkata, WB",
+    "duration": "2022 – 2026",
+    "gpa": "8.0 / 10",
+    "coursework": "Data Structures & Algorithms, Computer Networks, Computer Architecture"
+  },
+  "certifications": [
+    { "name": "Getting Started with AI", "issuer": "IBM", "date": "Aug 2025" },
+    { "name": "Cloud Computing with AWS", "issuer": "Internshala", "date": "Aug 2025" },
+    { "name": "Data Science Course", "issuer": "Rinex × E-Cell, IIT Bhubaneswar", "date": "Feb 2023" }
+  ]
+}
